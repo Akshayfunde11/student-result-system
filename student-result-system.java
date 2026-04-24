@@ -22,16 +22,16 @@ class Test{
 		System.out.println(" Percentage : "+ Percentage);
 		
 		if(Percentage>=90){
-			System.out.println("A garde");
+			System.out.println("A grade");
 		}
 		else if(Percentage>=80){
-			System.out.println("B garde");
+			System.out.println("B grade");
 		}
 		else if(Percentage>=70){
-			System.out.println("C garde");
+			System.out.println("C grade");
 		}
 		else if(Percentage>=50){
-			System.out.println("D garde");
+			System.out.println("D grade");
 		}
 		else{
 			System.out.println("Fail");
